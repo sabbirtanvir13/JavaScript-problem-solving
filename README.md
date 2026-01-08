@@ -37,3 +37,6 @@ Explained Problems in Video:
 4. Find Maximum Number
 
 5. Remove Duplicates from an Array
+
+##  Video Explanation 
+https://drive.google.com/file/d/1hyOoFx37wBoL2PSUKRWgYIFQQjTwOpAp/view?usp=sharing
