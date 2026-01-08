@@ -4,36 +4,36 @@ This repository contains solutions to 10 basic JavaScript problems, written usin
 
 Problems Included
 
-Reverse a String
+1. Reverse a String
 
-Count Vowels in a String
+2. Count Vowels in a String
 
-Check Palindrome
+3. Check Palindrome
 
-Find Maximum Number from an Array
+4. Find Maximum Number from an Array
 
-Remove Duplicates from an Array
+5. Remove Duplicates from an Array
 
-Sum of Numbers in an Array
+6. Sum of Numbers in an Array
 
-Find Even Numbers in an Array
+7. Find Even Numbers in an Array
 
-Capitalize First Letter of Each Word
+8. Capitalize First Letter of Each Word
 
-Factorial of a Number
+9. Factorial of a Number
 
-PingPong Challenge
+10. PingPong Challenge
 
 
 
 Explained Problems in Video:
 
-Reverse a String
+1. Reverse a String
 
-Count Vowels in a String
+2. Count Vowels in a String
 
-Check Palindrome
+3. Check Palindrome
 
-Find Maximum Number
+4. Find Maximum Number
 
-Remove Duplicates from an Array
+5. Remove Duplicates from an Array
