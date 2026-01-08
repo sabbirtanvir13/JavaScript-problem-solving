@@ -1,8 +1,16 @@
-const EvenNumbers= [1, 2, 3, 4, 5, 6]
-const EvenList=[]
-for(let i=0;i<EvenNumbers.length;i++){
-    if(EvenNumbers[i]%2===0){
-        EvenList.push(EvenNumbers[i])
+function pingPong() {
+    for (let i = 1; i <= 20; i++) {
+        if (i % 3 === 0 && i % 5 === 0) {
+            console.log("PingPong");
+        } else if (i % 3 === 0) {
+            console.log("Ping");
+        } else if (i % 5 === 0) {
+            console.log("Pong");
+        } else {
+            console.log(i);
+        }
     }
 }
-console.log(EvenList)
+
+
+pingPong();
